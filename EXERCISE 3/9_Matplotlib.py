@@ -11,7 +11,8 @@ United States,46
 Great Britain,27
 China,26
 Russia,19
-Germany,17
+Germany,17
+
 
 """
 
