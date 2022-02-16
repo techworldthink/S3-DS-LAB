@@ -10,4 +10,4 @@ header = 'C1 C2 C3 C4'
 np.savetxt('7_array.txt', x, fmt="%d", header=header)
 
 print("\nAfter loading, content of the text file:")
-print(np.loadtxt('7_array.txt'))
+print(np.loadtxt('7_array.txt',dtype='i'))

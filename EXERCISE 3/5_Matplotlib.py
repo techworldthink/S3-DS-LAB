@@ -5,7 +5,7 @@
 
 import matplotlib.pyplot as plt
 
-figure, axis = plt.subplots(2,2)
+figure, axis = plt.subplots(1,2)
 
 
 x1 = [10,20,30]
